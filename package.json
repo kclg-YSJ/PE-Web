@@ -1,0 +1,13 @@
+{
+  "name": "pe-web",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "PE 的网页移植版",
+  "scripts": {
+    "start": "node server.mjs",
+    "test": "node --test tests/*.test.mjs",
+    "check": "node scripts/check.mjs"
+  },
+  "engines": { "node": ">=18" }
+}

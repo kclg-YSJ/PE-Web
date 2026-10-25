@@ -1,0 +1,309 @@
+{
+  "textures": {
+    "111.png": {
+      "width": 1000,
+      "height": 52
+    },
+    "Cancel.png": {
+      "width": 450,
+      "height": 150
+    },
+    "Chart.png": {
+      "width": 453,
+      "height": 169
+    },
+    "Confirm.png": {
+      "width": 450,
+      "height": 150
+    },
+    "Drag2.png": {
+      "width": 989,
+      "height": 60
+    },
+    "DragHL.png": {
+      "width": 1089,
+      "height": 160
+    },
+    "Flick2.png": {
+      "width": 989,
+      "height": 200
+    },
+    "Flick2HL.png": {
+      "width": 1089,
+      "height": 300
+    },
+    "General.png": {
+      "width": 453,
+      "height": 169
+    },
+    "Hold.png": {
+      "width": 989,
+      "height": 1900
+    },
+    "Hold3.png": {
+      "width": 989,
+      "height": 2000
+    },
+    "Hold4.png": {
+      "width": 148,
+      "height": 299
+    },
+    "HoldEnd.png": {
+      "width": 989,
+      "height": 50
+    },
+    "HoldHead.png": {
+      "width": 989,
+      "height": 50
+    },
+    "Pause.png": {
+      "width": 200,
+      "height": 200
+    },
+    "Prefix.png": {
+      "width": 50,
+      "height": 256
+    },
+    "Reset.png": {
+      "width": 450,
+      "height": 150
+    },
+    "Tap2.png": {
+      "width": 989,
+      "height": 100
+    },
+    "Tap2HL.png": {
+      "width": 1089,
+      "height": 200
+    },
+    "add.png": {
+      "width": 2000,
+      "height": 2000
+    },
+    "backg2.png": {
+      "width": 2000,
+      "height": 1300
+    },
+    "ball.png": {
+      "width": 49,
+      "height": 50
+    },
+    "ball2.png": {
+      "width": 49,
+      "height": 50
+    },
+    "check_box_active.png": {
+      "width": 40,
+      "height": 40
+    },
+    "check_box_normal.png": {
+      "width": 40,
+      "height": 40
+    },
+    "delete1.png": {
+      "width": 500,
+      "height": 500
+    },
+    "img-1.png": {
+      "width": 255,
+      "height": 256
+    },
+    "img-10.png": {
+      "width": 255,
+      "height": 256
+    },
+    "img-11.png": {
+      "width": 255,
+      "height": 256
+    },
+    "img-12.png": {
+      "width": 255,
+      "height": 256
+    },
+    "img-13.png": {
+      "width": 255,
+      "height": 256
+    },
+    "img-14.png": {
+      "width": 255,
+      "height": 256
+    },
+    "img-15.png": {
+      "width": 255,
+      "height": 256
+    },
+    "img-16.png": {
+      "width": 255,
+      "height": 256
+    },
+    "img-17.png": {
+      "width": 255,
+      "height": 256
+    },
+    "img-18.png": {
+      "width": 255,
+      "height": 256
+    },
+    "img-19.png": {
+      "width": 255,
+      "height": 256
+    },
+    "img-2.png": {
+      "width": 255,
+      "height": 256
+    },
+    "img-20.png": {
+      "width": 255,
+      "height": 256
+    },
+    "img-21.png": {
+      "width": 255,
+      "height": 256
+    },
+    "img-22.png": {
+      "width": 255,
+      "height": 256
+    },
+    "img-23.png": {
+      "width": 255,
+      "height": 256
+    },
+    "img-24.png": {
+      "width": 255,
+      "height": 256
+    },
+    "img-25.png": {
+      "width": 259,
+      "height": 256
+    },
+    "img-26.png": {
+      "width": 259,
+      "height": 256
+    },
+    "img-27.png": {
+      "width": 259,
+      "height": 256
+    },
+    "img-28.png": {
+      "width": 259,
+      "height": 256
+    },
+    "img-29.png": {
+      "width": 259,
+      "height": 256
+    },
+    "img-3.png": {
+      "width": 255,
+      "height": 256
+    },
+    "img-30.png": {
+      "width": 259,
+      "height": 256
+    },
+    "img-31.png": {
+      "width": 169,
+      "height": 169
+    },
+    "img-4.png": {
+      "width": 255,
+      "height": 256
+    },
+    "img-5.png": {
+      "width": 255,
+      "height": 256
+    },
+    "img-6.png": {
+      "width": 255,
+      "height": 256
+    },
+    "img-7.png": {
+      "width": 255,
+      "height": 256
+    },
+    "img-8.png": {
+      "width": 255,
+      "height": 256
+    },
+    "img-9.png": {
+      "width": 255,
+      "height": 256
+    },
+    "line.png": {
+      "width": 4000,
+      "height": 5
+    },
+    "line2.png": {
+      "width": 4000,
+      "height": 20
+    },
+    "line3.png": {
+      "width": 4000,
+      "height": 5
+    },
+    "line4.png": {
+      "width": 5,
+      "height": 4000
+    },
+    "particle.png": {
+      "width": 4,
+      "height": 4
+    },
+    "resume1.png": {
+      "width": 512,
+      "height": 512
+    },
+    "resume2.png": {
+      "width": 512,
+      "height": 512
+    },
+    "save.png": {
+      "width": 512,
+      "height": 512
+    },
+    "settings.png": {
+      "width": 512,
+      "height": 512
+    },
+    "slider_short.png": {
+      "width": 750,
+      "height": 50
+    },
+    "tap9.png": {
+      "width": 989,
+      "height": 163
+    },
+    "textbox.png": {
+      "width": 400,
+      "height": 100
+    }
+  },
+  "settings": {
+    "width": 2048,
+    "height": 1400,
+    "barlineSpeed": 8,
+    "bgmVolume": 0.6,
+    "seVolume": 0.4,
+    "multiNoteHint": true,
+    "lineWidth": 0.5,
+    "noteSize": 0.5,
+    "scrollSpeed": 3,
+    "anchorCount": 7,
+    "backgroundAlpha": 70,
+    "showBackground": true,
+    "editMode": true,
+    "lineColor": "#ffffff",
+    "autosaveSeconds": 30,
+    "anchorGap": 200
+  },
+  "songs": [
+    {
+      "name": "Climax",
+      "audio": "Climax.mp3",
+      "image": "Climax.jpg",
+      "chart": "Climax.pec",
+      "level": "IN 15",
+      "composer": "USAO",
+      "charter": ""
+    }
+  ]
+}

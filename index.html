@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <meta name="theme-color" content="#000000">
+  <title>PhiEditer</title>
+  <link rel="icon" href="./assets/original/icons/Icon-60@3x.png">
+  <link rel="stylesheet" href="./src/style.css">
+</head>
+<body>
+  <main id="viewport" aria-label="PhiEditer 原版界面">
+    <div id="stage">
+      <canvas id="canvas" width="2048" height="1400" tabindex="0" aria-label="PhiEditer 编辑画布"></canvas>
+      <div id="controls"></div>
+    </div>
+  </main>
+  <div id="loading">PE Web<br><small>Loading…</small></div>
+  <div id="toast" role="status" aria-live="polite"></div>
+  <dialog id="web-tools">
+    <div class="dialog-header"><strong>PE Web · 文件与帮助</strong><button id="close-tools" aria-label="关闭">×</button></div>
+    <p>主界面使用原版素材和布局。F1 打开此面板，F11 全屏。</p>
+    <div class="actions">
+      <button data-action="import">导入 PEC / 项目</button>
+      <button data-action="media">更换音乐 / 背景</button>
+      <button data-action="export">导出 PEC</button>
+      <button data-action="backup">导出完整项目</button>
+      <button data-action="restore">恢复自动保存</button>
+      <button data-action="settings">设置</button>
+      <button data-action="library">返回选曲</button>
+      <button data-action="fullscreen">全屏</button>
+    </div>
+    <div id="help-text"></div>
+    <p class="footnote">保存到此浏览器；导出文件使用浏览器下载。</p>
+  </dialog>
+  <input id="file-input" type="file" multiple hidden>
+  <script type="module" src="./src/app.js"></script>
+</body>
+</html>

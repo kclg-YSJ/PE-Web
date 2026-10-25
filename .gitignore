@@ -1,0 +1,10 @@
+node_modules/
+verification/
+reference/
+MIGRATION.md
+.env
+.env.*
+*.log
+*.peweb
+.DS_Store
+Thumbs.db
