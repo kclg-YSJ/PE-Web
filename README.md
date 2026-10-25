@@ -2,6 +2,8 @@
 
 PE 的网页移植版。
 
+[在线使用](https://kclg-ysj.github.io/PE-Web/)
+
 ## 运行
 
 需要 Node.js 18 或更新版本，无需安装依赖。
